@@ -8,6 +8,7 @@ public class Game {
 		String prompt = "Will it be rock, paper or scissors?";
 		String input = JOptionPane.showInputDialog(prompt);
 		System.out.println("You selected: " + input);
+/*vineet mera bccha h*/
 	}
 
 }
